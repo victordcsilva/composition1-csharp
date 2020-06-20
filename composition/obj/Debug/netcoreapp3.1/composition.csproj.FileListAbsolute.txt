@@ -1,0 +1,13 @@
+C:\Users\Victor\source\repos\composition\composition\bin\Debug\netcoreapp3.1\composition.exe
+C:\Users\Victor\source\repos\composition\composition\bin\Debug\netcoreapp3.1\composition.deps.json
+C:\Users\Victor\source\repos\composition\composition\bin\Debug\netcoreapp3.1\composition.runtimeconfig.json
+C:\Users\Victor\source\repos\composition\composition\bin\Debug\netcoreapp3.1\composition.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\composition\composition\bin\Debug\netcoreapp3.1\composition.dll
+C:\Users\Victor\source\repos\composition\composition\bin\Debug\netcoreapp3.1\composition.pdb
+C:\Users\Victor\source\repos\composition\composition\obj\Debug\netcoreapp3.1\composition.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\composition\composition\obj\Debug\netcoreapp3.1\composition.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\composition\composition\obj\Debug\netcoreapp3.1\composition.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\composition\composition\obj\Debug\netcoreapp3.1\composition.AssemblyInfo.cs
+C:\Users\Victor\source\repos\composition\composition\obj\Debug\netcoreapp3.1\composition.dll
+C:\Users\Victor\source\repos\composition\composition\obj\Debug\netcoreapp3.1\composition.pdb
+C:\Users\Victor\source\repos\composition\composition\obj\Debug\netcoreapp3.1\composition.genruntimeconfig.cache
